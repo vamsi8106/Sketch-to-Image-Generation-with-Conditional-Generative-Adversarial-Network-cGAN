@@ -1,7 +1,7 @@
 # Sketch-to-Image Generation with Conditional Generative Adversarial Network (cGAN)
 
 ## Introduction
-This repository contains code for generating realistic images from sketches using a conditional Generative Adversarial Network (cGAN). The cGAN is conditioned on class labels to synthesize images that represent the characteristics associated with the provided label. The model is trained on unpaired sketches and generates images accordingly.Dataset used is ISIC dataset.
+The cGAN is conditioned on class labels to synthesize images that represent the characteristics associated with the provided label. The model is trained on unpaired sketches and generates images accordingly.Dataset used is ISIC dataset.
 
 ## Experiments
 ### Experiment 1: Training cGAN
